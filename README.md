@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Air Pollution Banner](https://unsplash.com/photos/photography-of-smoke-coming-out-from-tower-during-daytime-JbfhNrpQ_dw?w=800&h=300&fit=crop&crop=center)
-
+<img src="Screenshots/Air%20Banner.avif" alt="Air Pollution Banner" width="800" height="300" style="object-fit: cover; object-position: center;"/>
 
 
 ![Air Quality Banner](https://img.shields.io/badge/Air%20Quality-Prediction%20System-blue?style=for-the-badge&logo=cloud&logoColor=white)
