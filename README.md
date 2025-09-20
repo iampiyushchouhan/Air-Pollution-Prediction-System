@@ -16,6 +16,15 @@
 </div>
 
 ---
+## 🌐 Live Demo
+
+Experience the Air Pollution Prediction System in action:  
+👉 [Click here to view the live demo](https://iampiyushchouhan.github.io/Air-Pollution-Prediction-System/)
+
+> This interactive dashboard showcases real-time AQI monitoring, predictive analytics, and environmental insights powered by AI.
+
+---
+
 
 ## 🌟 **Project Overview**
 
@@ -365,7 +374,7 @@ in the Software without restriction...
 <p><strong>Piyush Chouhan</strong></p>
 <h3>🆘 Need Help?</h3>
 
-<a href="https://github.com/iampiyushchouhan/wine-quality-prediction-2/issues">
+<a href="https://github.com/iampiyushchouhan/Air-Pollution-Prediction-System/issues">
   <img src="https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github" alt="GitHub Issues"/>
 </a>
 <a href="https://www.linkedin.com/in/iampiyushchouhan/">
