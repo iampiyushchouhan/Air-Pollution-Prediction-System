@@ -2,6 +2,10 @@
 
 <div align="center">
 
+![Air Pollution Banner](https://unsplash.com/photos/photography-of-smoke-coming-out-from-tower-during-daytime-JbfhNrpQ_dw?w=800&h=300&fit=crop&crop=center)
+
+
+
 ![Air Quality Banner](https://img.shields.io/badge/Air%20Quality-Prediction%20System-blue?style=for-the-badge&logo=cloud&logoColor=white)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-green?style=for-the-badge&logo=brain&logoColor=white)
 ![Real Time](https://img.shields.io/badge/Real%20Time-Monitoring-orange?style=for-the-badge&logo=activity&logoColor=white)
