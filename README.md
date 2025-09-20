@@ -239,17 +239,20 @@ graph TB
 
 ## 📱 **Screenshots**
 
-### 🖥️ **Desktop Dashboard**
-![Dashboard Screenshot](placeholder-dashboard.png)
-*Real-time monitoring dashboard with live AQI updates and trend analysis*
-
-### 🔮 **Prediction Interface**
-![Prediction Screenshot](placeholder-prediction.png)
-*AI prediction engine with environmental parameter controls*
-
-### 📊 **Analytics Panel**
-![Analytics Screenshot](placeholder-analytics.png)
-*Comprehensive pollution source analysis and health impact assessment*
+<table>
+<tr>
+<td align="center"><strong>🎯 Prediction Interface</strong></td>
+<td align="center"><strong>📊 Data Analysis</strong></td>
+</tr>
+<tr>
+<td><img src="Screenshots/dashboard.png" alt="Prediction Interface" width="400"/></td>
+<td><img src="Screenshots/prediction.png" alt="Data Analysis" width="400"/></td>
+</tr>
+<tr>
+<td><img src="Screenshots/analytics.png" alt="Feature Importance" width="400"/></td>
+<td></td>
+</tr>
+</table>
 
 
 
@@ -344,14 +347,29 @@ in the Software without restriction...
 ## 📞 **Support & Contact**
 
 ### 🆘 **Getting Help**
-- 📖 **Documentation**: Check the [Wiki](https://github.com/yourusername/air-pollution-prediction-system/wiki)
-- 🐛 **Issues**: Report bugs on [GitHub Issues](https://github.com/yourusername/air-pollution-prediction-system/issues)
-- 💬 **Discussions**: Join our [Community Forum](https://github.com/yourusername/air-pollution-prediction-system/discussions)
+- 📖 **Documentation**: Check the [Wiki](https://github.com/iampiyushchouhan/Air-Pollution-Prediction-System/wiki)
+- 🐛 **Issues**: Report bugs on [GitHub Issues](https://github.com/iampiyushchouhan/Air-Pollution-Prediction-System/issues)
 
-### 👥 **Development Team**
-- **Lead Developer**: Your Name (@yourusername)
-- **AI Specialist**: Team Member (@member1)
-- **UI/UX Designer**: Team Member (@member2)
+
+<div align="center">
+
+<h3>👤 Author</h3>
+
+<a href="https://github.com/iampiyushchouhan">
+  <img src="https://github.com/iampiyushchouhan.png" alt="Piyush's Profile" width="120" style="border-radius: 50%;"/>
+</a>
+
+<p><strong>Piyush Chouhan</strong></p>
+<h3>🆘 Need Help?</h3>
+
+<a href="https://github.com/iampiyushchouhan/wine-quality-prediction-2/issues">
+  <img src="https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github" alt="GitHub Issues"/>
+</a>
+<a href="https://www.linkedin.com/in/iampiyushchouhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+</a>
+
+</div>
 
 ---
 
@@ -367,13 +385,38 @@ in the Software without restriction...
 
 
 ---
+## 🚀 Past Projects That Shaped My Journey
+
+Each of these projects reflects a milestone in my exploration of AI, data science, and cloud technologies. From healthcare to linguistics, here's a glimpse into the tools I've built to solve real-world problems:
+
+**🔬 [TB Detection Tool](https://github.com/iampiyushchouhan/tb-detection)**  
+A deep learning-powered diagnostic assistant that scans chest X-rays to detect tuberculosis with precision. Designed to support early screening in resource-limited settings.  
+**🧠 Technologies:** TensorFlow, OpenCV, CNN, Python  
+**🌍 Impact:** Accelerates TB diagnosis and supports public health initiatives.
+
+**💼 [Salary Prediction Tool](https://github.com/iampiyushchouhan/Salary-Prediction-2)**  
+An intelligent regression model that forecasts salaries based on experience, education, and industry trends. Built for HR analytics and career planning platforms.  
+**🧠 Technologies:** Scikit-learn, Pandas, Streamlit  
+**📈 Insight:** Helps visualize earning potential and market dynamics.
+
+**🌐 [Content Translator Agent (IBM Cloud)](https://github.com/iampiyushchouhan/Content-Translator-Agent-_IBM-Cloud)**  
+A multilingual translation agent powered by IBM Watson, enabling seamless content conversion across languages. Ideal for global teams and cross-border communication.  
+**🧠 Technologies:** IBM Cloud, Node.js, Express, REST APIs  
+**🗣️ Feature:** Real-time translation with support for over 50 languages.
+
+**🍷 [Wine Quality Prediction](https://github.com/iampiyushchouhan/wine-quality-prediction-2)**  
+A classification model that predicts wine quality based on physicochemical properties. Built for wine producers and enthusiasts to assess product standards.  
+**🧠 Technologies:** Scikit-learn, Matplotlib, Jupyter Notebook  
+**🍇 Fun Fact:** Red wines with higher alcohol and lower volatile acidity scored better!
+
+📌 *These projects are more than code — they're experiments in impact, creativity, and continuous learning. Dive into the repos to explore the full story.*
+
+
+---
 
 <div align="center">
 
-### 🌟 **Star this project if you find it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/air-pollution-prediction-system?style=social)](https://github.com/yourusername/air-pollution-prediction-system/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/air-pollution-prediction-system?style=social)](https://github.com/yourusername/air-pollution-prediction-system/network/members)
 
 **Made with ❤️ for a cleaner, healthier planet**
 
